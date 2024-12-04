@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&display=swap');
+
+body {
+    background: #c0ffee;
+}
+
+figure {
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+    filter: sepia(0.5);
+    margin-inline: auto;
+    padding: 8px 11px;
+    text-align: center;
+    transform: rotate(2deg);
+    width: 300px;
+}
+
+img {
+    border-radius: 2px;
+    margin-inline: auto;
+    width: 100%;
+}
+
+figcaption p {
+    color: #0000aa;
+    font-family: "Mrs Saint Delafield", cursive;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    margin-block: 8px;
+}
